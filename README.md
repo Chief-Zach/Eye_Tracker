@@ -11,7 +11,8 @@ detection functions to create an eye tracker with 3 modes:
   - 20 bubbles spawn one after another on the screen
   - Blink when you are looking at the target to get the next target to appear
 
-  
+Python Version 3.9 was used. Library supports 3.12 with some changes to the requirements.txt file.
+
 Gaze Tracking Library from [@antoinelame](https://github.com/antoinelame)
 Changes:
 - Calibration time increased to allow for changes in brightness before tracking eyes
